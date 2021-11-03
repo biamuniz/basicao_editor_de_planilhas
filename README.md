@@ -1,21 +1,23 @@
-# planilhao_excel
-Repositório com recursos para aprender o básico (e um pouco mais) sobre editores de planilhas, preparado para um Workshop para a Agência Pública. 
+# Workshop basicão sobre editores de planilhas
+Repositório com recursos para o workshop de editores de planilhas para a Agência Pública
 
-**Motivação**: Acredito que o "racional" de um editor de planilhas, como o Google Spreadsheets, Libre Office Calc ou o Excel pode ser uma mão na roda antes de partir para uma linguagem de programação na análise de dados, como Python ou R. Foi assim pra mim - *I believe in Microsoft Excel supremacy* (brincadeira. Ou não).
-A ideia de visualizar os dados ao mesmo tempo que manipula a base ajuda a não ficar tão abstrato conceitos como "concatenar", "procurar valor", "tabela dinâmica"; afinal, você vê o que tá acontecendo com os dados e a operação não fica escondida em uma linha de código. Apesar de preferir a linha de código (pela transparência e reprodutibilidade), os editores de planilha são um começo menos abstrato na análise de dados.
+### Motivação: 
+Acredito que o "racional" de um editor de planilhas, como o Google Spreadsheets, Libre Office Calc ou o Excel pode ser uma mão na roda antes de partir para uma linguagem de programação na análise de dados, como Python ou R. Foi assim pra mim - *I believe in Microsoft Excel supremacy* (brincadeira. Ou não).
+A ideia de visualizar os dados ao mesmo tempo que manipula a base ajuda a não ficar tão abstrato conceitos como "concatenar", "procurar valor", "tabela dinâmica"; afinal, você vê o que tá acontecendo com os dados e a operação não fica escondida em uma linha de código. Apesar de preferir a linha de código (pela transparência e reprodutibilidade), os editores de planilha são um começo menos abstrato na análise de dados e bem útil para alguns tipos de arquivo.
 
-**Tópicos**:
-* O que é cada coisa;
+### Tópicos:
+* O que é cada coisa na estrutura de um editor de planilhas;
 * O que dá pra fazer com um editor de planilhas (e o que é melhor não fazer com um editor de planilhas);
 * Formatação/estilo de células e planilhas;
-* Fórmulas;
-* Operações;
-* Concatenar;
-* SE;
+* Fórmulas e operações (soma, média, contagem, concatenar, condições);
 * PROCV;
 * Tabela dinâmica
 
+[Planilha utilizada *no workshop*](https://docs.google.com/spreadsheets/d/11xuBqaRQTX_k9bKkXBDGThr0Q2qXSL0JrlzLwxWrLMY/edit?usp=sharing)
 
-**Base de dados utilizada**: para aplicar os conceitos, utilizei a base de multas do Ibama aplicadas no estado do Amapá.
+**Base de dados utilizada**: para aplicar os conceitos, utilizei
+* Base de multas do Ibama aplicadas no município de Rio Branco - Acre, com recorte temporal (a partir de 2010) e de status da infração
+* Base de candidatos a vereador nas eleições de 2020 no Acre
 
-Referências
+## **Referências**
+* [Repositório "Aprenda Excel usando Excel", do Henrique Fialho](https://github.com/henriquefb/AprendaExcelUsandoExcel)
