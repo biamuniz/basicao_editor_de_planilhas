@@ -14,7 +14,7 @@ A ideia de visualizar os dados ao mesmo tempo que manipula a base ajuda a não f
 * PROCV;
 * Tabela dinâmica
 
-[Planilha utilizada *no workshop*](https://docs.google.com/spreadsheets/d/11xuBqaRQTX_k9bKkXBDGThr0Q2qXSL0JrlzLwxWrLMY/edit?usp=sharing) (ompartilhada com os membros da organização)
+[Planilha utilizada *no workshop*](https://docs.google.com/spreadsheets/d/11xuBqaRQTX_k9bKkXBDGThr0Q2qXSL0JrlzLwxWrLMY/edit?usp=sharing) (compartilhada com os membros da organização)
 
 **Base de dados utilizada**
 * Base de multas do Ibama aplicadas no município de Rio Branco - Acre, com recorte temporal (a partir de 2010) e de status da infração
