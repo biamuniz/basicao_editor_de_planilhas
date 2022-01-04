@@ -4,7 +4,7 @@ Repositório com recursos para o workshop de editores de planilhas para a Agênc
 ### Motivação: 
 Acredito que o "racional" de um editor de planilhas, como o Google Spreadsheets, Libre Office Calc ou o Excel pode ser uma mão na roda antes de partir para uma linguagem de programação na análise de dados, como Python ou R. Foi assim pra mim - *I believe in Microsoft Excel supremacy*.
 
-A ideia de visualizar os dados ao mesmo tempo que manipula a base ajuda a não ficar tão abstrato conceitos como "concatenar", "procurar valor", "tabela dinâmica"; afinal, você vê o que tá acontecendo com os dados e a operação não fica escondida em uma linha de código. Apesar da programação facilitar a reprodutibilidade e transparência do processo, os editores de planilha podem ser um bom começo, por ser menos abstrato e mais visual.
+A ideia de visualizar os dados ao mesmo tempo que manipula a base ajuda a não ficar tão abstrato conceitos como "concatenar", "procurar valor", "tabela dinâmica"; afinal, você vê o que tá acontecendo com os dados e a operação não fica escondida em uma linha de código. Apesar da programação facilitar a reprodutibilidade e transparência do processo, os editores de planilha podem ser um bom começo, por ser mais "visual".
 
 ### Tópicos:
 * O que é cada coisa na estrutura de um editor de planilhas;
